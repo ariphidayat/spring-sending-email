@@ -12,7 +12,6 @@
             <table>
                 <tr><td><form:input path="to" placeholder="To"/></td></tr>
                 <tr><td><form:input path="subject" placeholder="Subject"/></td></tr>
-                <tr><td><form:textarea path="text" placeholder="Message Body"/></td></tr>
                 <tr><td><input type="submit" value="Send"/></td></tr>
             </table>
         </form:form>

@@ -1,0 +1,10 @@
+<html>
+
+    <head></head>
+
+    <body>
+        <p>Dear ${name},</p>
+        <p>${body}</p>
+    </body>
+
+</html>
